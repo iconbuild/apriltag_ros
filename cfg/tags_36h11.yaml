@@ -14,8 +14,8 @@
             sharpening: 0.25    # sharpening of decoded images
             debug: False        # write additional debugging images to current working directory
 
-        # optional list of tags
+        # # optional list of tags
         tag:
-            ids: [12,10,11]            # tag ID
+            ids: [11,10,12]            # tag ID
             frames: [charge_left,charge_center,charge_right]  # optional frame name
             sizes: [0.050, 0.033, 0.050]   # optional tag-specific edge size
